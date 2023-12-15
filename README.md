@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rosie</h1>
+<h1 align="center">Hi 👋 I'm Rosie</h1>
 <h3 align="center">A software engineer from London</h3>
 
-😄 Pronouns: **She/her**
+😄 Pronouns: **she/her**
 
 🔭 I’m currently working: **at the BBC, building the [new Toucan media player](https://www.bbc.co.uk/blogs/internet/entries/65db5af7-1ec1-4ba5-9f09-4f3c5f632b03)**
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 📫 Reach me on: **Twitter [@RosieInman](https://twitter.com/RosieInman)**
 
-⚡ Fun fact: **The first code I ever wrote was for my Neopets pet pages when I was about 11 years old!**
+⚡ Fun fact: **the first code I ever wrote was for my Neopets pet pages when I was 11 years old**
